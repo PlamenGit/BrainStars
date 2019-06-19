@@ -10,6 +10,7 @@ package com.mycompany.testnetbeansproject;
  * @author PI
  */
 public class Car {
-    private int fuel;
+    private int Fuel;
     private int test;
+
 }
