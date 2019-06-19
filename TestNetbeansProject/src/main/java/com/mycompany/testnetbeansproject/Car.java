@@ -11,4 +11,5 @@ package com.mycompany.testnetbeansproject;
  */
 public class Car {
     private int fuel;
+    private int engine;
 }
